@@ -22,7 +22,15 @@ CS student at PUC Campinas, developing software for robots — passionate about 
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,linux,git,github,docker,vscode,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,html&theme=dark" />
+</div>
+
+<br>
+
+### 📖 Currently Learning
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=css,js,ts&theme=dark" />
 </div>
 
 <br>
@@ -30,20 +38,9 @@ CS student at PUC Campinas, developing software for robots — passionate about 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Felipe-conceicao2501&show_icons=true&theme=transparent&title_color=E62429&icon_color=1E3A8A&text_color=ffffff&border_color=E62429&hide_border=false&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-conceicao2501&layout=compact&theme=transparent&title_color=E62429&text_color=ffffff&border_color=1E3A8A&hide_border=false" width="35%" />
+<img src="https://raw.githubusercontent.com/Felipe-conceicao2501/Felipe-conceicao2501/main/github-metrics.svg" width="100%" />
 
 <img src="https://streak-stats.demolab.com/?user=Felipe-conceicao2501&theme=dark&hide_border=true&background=0D1117&ring=E62429&fire=1E3A8A&currStreakLabel=E62429" width="65%" />
-
-</div>
-
-<br>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Felipe-conceicao2501&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 <br>
