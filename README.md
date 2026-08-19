@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/spiderman-dangle.gif" width="100%"/>
+<img src="assets/spiderman-dangle2.gif" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Felipe+%F0%9F%91%8B;CS+Student+%40+PUC+Campinas;Building+software+for+robots+%F0%9F%A4%96;Passionate+about+AI+%26+Innovation" alt="Typing SVG" />
