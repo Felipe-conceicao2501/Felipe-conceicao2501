@@ -3,59 +3,26 @@
 # Felipe Conceição
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=440&lines=CS+Student+%40+PUC+Campinas;Robotics+%26+AI+Software+Engineer;Building+the+DUXBOT+voice+assistant;Digital+Presence+Consultant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=440&lines=Software+Engineering+%40+PUC+Campinas;Control+%26+Automation+Engineering+%40+ENIAC;Robotics+%26+AI+Software+Engineer;Building+the+DUXBOT+voice+assistant" alt="Typing SVG" />
 </a>
 
 <br clear="both"/>
 
 ## `$ whoami`
 
-```bash
-$ whoami
-Felipe Conceição — Computer Science student @ PUC Campinas
+<img src="assets/terminal-whoami.svg" alt="whoami terminal" width="568" />
 
-$ cat focus.txt
-> Voice + motion software for humanoid and quadruped robots
-> Computer vision (webcam → robot movement mimicry)
-> Digital presence systems for local businesses
-```
+<br>
+<br>
 
 ## Featured Project — DUXBOT
 
 <img src="assets/sticker-k1.png" align="right" width="150" alt="Booster K1 sticker" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=800&color=58A6FF&center=false&vCenter=true&width=440&height=30&lines=%24+duxbot+--status_" alt="Typing SVG" />
-</a>
+<img src="assets/terminal-duxbot.svg" alt="duxbot --status terminal" width="679" />
 
-```text
-Platform     Booster K1 humanoid robot — deployed & live at a school
-
-Mission      Not a chatbot wearing a robot body. A full Personal
-             Robot System: identity, senses and behavior working
-             together as one product.
-
-Voice        Real-time speech-to-speech — no STT → LLM → TTS pipeline,
-             one continuous conversational loop
-
-Identity     Persistent persona + custom knowledge base, configurable
-             live from an admin panel — the robot stays "in character"
-
-Perception   Computer vision: person/object detection, live head cam,
-             real-time movement mimicry (webcam → robot)
-
-Motion       Gesture library synced to speech — it moves while it talks,
-             not a static head with a speaker
-
-Resilience   Online (cloud LLM) ↔ offline (local model) automatic
-             failover — never goes silent if the network drops
-
-Hardware     Dynamic audio routing — lapel mic, Bluetooth speaker or
-             internal array, switchable live, no reboot needed
-
-Access       Remote admin panel + secure tunnel for full monitoring
-             and configuration without touching the robot physically
-```
+<br>
+<br>
 
 <img src="assets/sticker-t1.png" align="left" width="130" alt="Booster T1 sticker" />
 
@@ -67,12 +34,7 @@ Access       Remote admin panel + secure tunnel for full monitoring
 
 ## `$ cat experience.log`
 
-```text
-[ACTIVE]   Digital Presence Consulting
-           → Instagram, websites & WhatsApp automation for local businesses
-
-[ONGOING]  B.S. Computer Science — PUC Campinas
-```
+<img src="assets/terminal-experience.svg" alt="experience terminal" width="559" />
 
 ## `$ ls tech-stack/`
 
