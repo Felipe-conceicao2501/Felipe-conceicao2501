@@ -35,7 +35,7 @@
 ## `$ ls tech-stack/`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,go,c,cpp,linux,html,css,js,ts,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,html,css,js,ts,git,github&theme=dark" />
 </div>
 
 <br>
