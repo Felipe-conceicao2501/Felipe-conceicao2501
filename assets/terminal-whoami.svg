@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="568" height="223" viewBox="0 0 568 223">
-<rect x="0.5" y="0.5" width="567" height="222" rx="10" ry="10" fill="#0D1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="568" height="202" viewBox="0 0 568 202">
+<rect x="0.5" y="0.5" width="567" height="201" rx="10" ry="10" fill="#0D1117" stroke="#30363d"/>
 <path d="M0.5 10.5 a10 10 0 0 1 10 -10 h547 a10 10 0 0 1 10 10 v23.5 h-567 z" fill="#161B22"/>
 <line x1="0.5" y1="34.5" x2="567.5" y2="34.5" stroke="#30363d"/>
 <circle cx="26" cy="17.0" r="6" fill="#FF5F56"/>
@@ -11,8 +11,7 @@
 <text x="22" y="117" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#58A6FF" xml:space="preserve">$&#160;cat&#160;focus.txt</text>
 <text x="22" y="138" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#6e7681" xml:space="preserve">&gt;&#160;Voice&#160;+&#160;motion&#160;software&#160;for&#160;humanoid&#160;and&#160;quadruped&#160;robots</text>
 <text x="22" y="159" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#6e7681" xml:space="preserve">&gt;&#160;Computer&#160;vision&#160;(webcam&#160;→&#160;robot&#160;movement&#160;mimicry)</text>
-<text x="22" y="180" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#6e7681" xml:space="preserve">&gt;&#160;Digital&#160;presence&#160;systems&#160;for&#160;local&#160;businesses</text>
-<rect x="425.9" y="168" width="8" height="16" fill="#58A6FF">
+<rect x="460.1" y="147" width="8" height="16" fill="#58A6FF">
 <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
 </rect>
 </svg>

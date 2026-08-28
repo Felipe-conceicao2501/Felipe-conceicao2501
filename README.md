@@ -1,12 +1,8 @@
-<img src="assets/robot-hero.jpg" align="right" width="240" alt="Booster K1 humanoid robot and quadruped" />
-
 # Felipe Conceição
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=440&lines=Software+Engineering+%40+PUC+Campinas;Control+%26+Automation+Engineering+%40+ENIAC;Robotics+%26+AI+Software+Engineer;Building+the+DUXBOT+voice+assistant" alt="Typing SVG" />
 </a>
-
-<br clear="both"/>
 
 ## `$ whoami`
 
@@ -34,7 +30,7 @@
 
 ## `$ cat experience.log`
 
-<img src="assets/terminal-experience.svg" alt="experience terminal" width="559" />
+<img src="assets/terminal-experience.svg" alt="experience terminal" width="500" />
 
 ## `$ ls tech-stack/`
 
