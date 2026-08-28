@@ -22,7 +22,7 @@
 
 <img src="assets/sticker-t1.png" align="left" width="130" alt="Booster T1 sticker" />
 
-> Designed and built solo from the ground up — the voice loop, the persona system, the motion/vision stack and the ops tooling around it. Not a demo: it's a robot people at the school actually interact with daily.
+> Built from the ground up as the core system — the voice loop, the persona, the motion/vision stack — then refined alongside a teammate as it went from prototype to something people at the school actually interact with daily. Not a demo, a real deployment.
 
 <img src="assets/sticker-t2.png" align="right" width="130" alt="Booster T2 sticker" />
 
