@@ -1,7 +1,7 @@
 # Felipe Conceição
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=520&lines=Engenharia+de+Software+%40+PUC+Campinas;Engenharia+de+Controle+e+Automa%C3%A7%C3%A3o+%40+ENIAC;Engenheiro+de+Software+em+Rob%C3%B3tica+%26+IA;Construindo+o+assistente+de+voz+DUXBOT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=520&lines=Engenharia+de+Software+%40+PUC+Campinas;Engenharia+de+Controle+e+Automa%C3%A7%C3%A3o+%40+ENIAC;Rob%C3%B3tica+%26+Intelig%C3%AAncia+Artificial;Construindo+o+assistente+de+voz+DUXBOT" alt="Typing SVG" />
 </a>
 
 ## `$ whoami`
@@ -15,14 +15,14 @@
 
 <img src="assets/sticker-k1.png" align="right" width="150" alt="Adesivo Booster K1" />
 
-<img src="assets/terminal-duxbot-pt.svg" alt="terminal duxbot --status" width="739" />
+<img src="assets/terminal-duxbot-pt.svg" alt="terminal duxbot --status" width="713" />
 
 <br>
 <br>
 
 <img src="assets/sticker-t1.png" align="left" width="130" alt="Adesivo Booster T1" />
 
-> Construído do zero como o sistema central — o loop de voz, a persona, a pilha de visão/movimento — e depois refinado junto com um colega conforme foi de protótipo a algo que as pessoas na escola realmente usam todos os dias. Não é uma demo, é uma implantação real.
+> Construído do zero por mim: o loop de voz, a persona, a parte de visão e movimento. Depois refinado ao lado de um colega, conforme foi saindo do protótipo e virando algo que as pessoas na escola usam de verdade, todos os dias. Não é uma demonstração, é um robô em uso real.
 
 <img src="assets/sticker-t2.png" align="right" width="130" alt="Adesivo Booster T2" />
 
