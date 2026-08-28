@@ -1,7 +1,7 @@
 # Felipe Conceição
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=440&lines=Software+Engineering+%40+PUC+Campinas;Control+%26+Automation+Engineering+%40+ENIAC;Robotics+%26+AI+Software+Engineer;Building+the+DUXBOT+voice+assistant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=false&vCenter=true&width=520&lines=Software+Engineering+%40+PUC+Campinas;Control+%26+Automation+Engineering+%40+ENIAC;Robotics+%26+AI+Software+Engineer;Building+the+DUXBOT+voice+assistant" alt="Typing SVG" />
 </a>
 
 ## `$ whoami`
