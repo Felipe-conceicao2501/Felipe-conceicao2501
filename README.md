@@ -40,15 +40,6 @@
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Felipe-conceicao2501/Felipe-conceicao2501/main/github-metrics.svg" width="100%" />
-
-<img src="https://streak-stats.demolab.com/?user=Felipe-conceicao2501&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="65%" />
-</div>
-
-<br>
 
 ### Contribution Snake
 
